@@ -1,1 +1,1 @@
-console.log('course1')
+console.log('course2')
